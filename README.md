@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-**Part 4(Creating, Triaging, and Resolving Tickets)**
+**Part 4 (Creating, Triaging, and Resolving Tickets)**
 
 Ticket "Scenarios"
 
