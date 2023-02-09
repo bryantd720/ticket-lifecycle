@@ -29,3 +29,37 @@ Ticket "Scenarios"
 
 <h2>Example Screenshots</h2>
 
+<p>
+<img src="https://i.imgur.com/ksrkbKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Simulation of an end-user creating a ticket within osTicket portal.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/YgxZFdc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Agent logging into the osTicket portal.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/0TYeBGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Agent responding to an end-user's ticket.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/Q8nx2aB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Agent resolving an end-user's ticket after replying to their post.
+</p>
+<br />
