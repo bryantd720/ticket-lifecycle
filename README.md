@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket using Microsoft Azure.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -22,9 +22,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 Ticket "Scenarios"
 
-- Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
-- Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
-- Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+- Sev-A (1 hour, 24/7) [Entire mobile/online banking system is down.] -> SysAdmins
+- Sev-B (4 hours, 24/7) [Accounting Department needs Adobe upgrade. The software is currently broken.]
+- Sev-B/C (2 hours, business hours) [The CFO’s laptop seems to be a bit slow.]
 
 
 <h2>Example Screenshots</h2>
@@ -33,7 +33,7 @@ Ticket "Scenarios"
 <img src="https://i.imgur.com/ksrkbKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Simulation of an end-user creating a ticket within osTicket portal.
+Simulation of an end-user (Customer) creating a ticket within osTicket portal.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ Simulation of an end-user creating a ticket within osTicket portal.
 <img src="https://i.imgur.com/YgxZFdc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agent logging into the osTicket portal.
+Agent (Help Desk Professional) logging into the osTicket portal.
 </p>
 <br />
 
@@ -60,6 +60,6 @@ Agent responding to an end-user's ticket.
 <img src="https://i.imgur.com/Q8nx2aB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agent resolving an end-user's ticket after replying to their post.
+Agent resolving an end-user's ticket after replying to their issue.
 </p>
 <br />
